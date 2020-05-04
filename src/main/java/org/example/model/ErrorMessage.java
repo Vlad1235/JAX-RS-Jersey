@@ -3,7 +3,6 @@ package org.example.model;
 import javax.xml.bind.annotation.XmlRootElement;
 
 /**
- * Json format error message
  * Сами создаем формат, в котором ошибки будут отправляться в response
  */
 
